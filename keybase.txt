@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/paulmcgrath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paulmcgrath.me
+  * I am paulmcgrath (https://keybase.io/paulmcgrath) on keybase.
+  * I have a public key with fingerprint B19D CDA8 A002 0EBC 4EC1  5AC1 7DC1 CF8F 18E8 47CD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205f8a6e65bd45a462c8cef40e7515a5f620af5a0bd86e1b3d3ee5aa5055bbff1d0a",
+      "fingerprint": "b19dcda8a0020ebc4ec15ac17dc1cf8f18e847cd",
+      "host": "keybase.io",
+      "key_id": "7dc1cf8f18e847cd",
+      "kid": "010106571ddc49c43f8fd274c69fcd72b6323033b7cae380b481b4b093918f5c1b840a",
+      "uid": "e5dd5241cb194f98de9654004cc92819",
+      "username": "paulmcgrath"
+    },
+    "service": {
+      "hostname": "paulmcgrath.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507239753,
+  "expire_in": 157680000,
+  "prev": "9353d7a647efd2acdf76df5636378f85e15f4644fb3ea3198526c0ebf702092a",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJtUFRVGN5FIEJUGgI/ZhC4zpjRYvfr3I81ILBNwWkccZiGwNZ7zz13
+9w6wu+4HXwsCFkToDIY2iJQDGmwlSAH2MQS6RmKAY0GG04ANRmgpCTgOKk50l8lf
+dc6PM+d9n+d5n/O+p2/FMk2wtsR7pWbNrW2XtYPeD12ajJ89KW5MtEqFmN6NZaOl
+A+VIyOE0ZisSpsdwgsSBzAkMYoAo0UCgGRJyEMk0jlhAAAHIDIkLMhBwUeIYRIiU
+RCEEBAHgAIiiLBMSLmA6TFYsJmS32RWLU5UVCV6CksAJOE7iSIQ0gqoWJFgJElDm
+ZIJDHM1CSSWarQ4fQzUnCg60WbGqMfViXLL3P/gnvtXNAJaQJEjzkKZUkESyNGR4
+GUosKTIUSeEUJbJQQBSHizRHiLSI8xRPcDKAhMjRS75dS3IISBIgaQKqxmmZ5yTE
+M4DGcRpCnuQI3gd0ILtFyEUq2ia4cnKhyS44zViJDlMTeQpEvt76HvNf0GY1oMNs
+dqvTCq05as7sdNoceh/XWWjzgfORaPxXxigqFkltpsrIQ3aHYrVgekJFQqfi0yUA
+zpIUzwJKh6ECm2JHRsWHACzD4ery1UF5qiRPAUpiBYZmkdoZAUoyy0gyYCiGYjmZ
+A4gAMs3QtCxSSKAIngMkA9VZyaw6Mp709caB9lmsqrZayimYVE2HYrIITpcdYSUX
+vFn+Gm2wJjDAz/fLNMFPhz75e0flUE1L7kTcO1/1nOkevz9oar1omKmKN8wa9sb6
+6QZvVEWn34qMurm+6wuN+/DpMof2ZDTonPDUZHi2f9oVO96+Aa7KCqNTKwtGIrYV
+p3Te753ov7qz+XrCs3VhB98tC1lpNj+02eb/5JNmh5JeOp/x5ieu5J6tl/u+LqVr
+68O9MacrHHFMlIc50js4FwTK2Nrq7AePA7vjm8ot+lp2+jtN13Tihd2/Bi6/OtB6
+b0znXpOYlRjxe/cBVxnW8XF1Zi9NjE+6o5vfq3TtfxQTT/Yd++1E5yVPU/BY/VOB
+z7xyMW1atsyQAzfv7XwQcrS15bM7A+5TR7zn53dFJmUFhtWMHv/GkPFB2vflOUqk
+3OG5wXcXu9u0496GlVt0e95Ye/vLqWvbf1o3EfxaTHVPG3a707tx9kD+qP/+hPq1
+yS+cCic0zMLhocVHe6ybUp+X9CdTs++24eXrmzPrsYAfNiV8FDRyXDkT1L8ls3/F
+auPGmo6zw4Gve37ZndjUcb3UZAg1n4iqCK1sGG58cTLlyrlWpuhhy4+phYtR2hbi
+0uquxnXfjoztmindEPG5YW+a37LcP5KT3max5+bq5sLPxvaMriItrpGA4oWhxap9
+hx43vTVX1Hgw5Fy6zBS8WnCn+O5kanrD/LGF5SV1+cqO9uqtFcnt2VNT1Mv+f79P
+jF+b3ZFW5JhZ/KtyOK7HLvwD2hvHhg==
+=w7iF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paulmcgrath
+
+==================================================================
