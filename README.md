@@ -11,3 +11,7 @@ Design in-progress can be seen here:
 [tach]: http://tachyons.io/
 [hugo]: https://gohugo.io/
 [net]:  https://www.netlify.com/
+
+This structure is based on [Victor Hugo][victor] and is under the same MIT licence.
+
+[victor]:   https://github.com/netlify/victor-hugo
