@@ -1,26 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ partial "head" . }}
 
-  {{ partial "header" . }}
+{{ partial "header" . }}
 
-<h1>Hugo with Gulp, PostCSS, Tachyons, and Webpack</h1>
-
-<p>
-  Hooray 🎉 - you've built this with a modified <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!
-</p>
-
-<div style="background-color: rebeccapurple" class="fl w-100 pa2">
-  <p>Testing Tachyons flexbox</p>
-</div>
-
-<div style="background-color: rgb(51, 153, 119)" class="fl w-100 pa2">
-  <p>Testing Tachyons flexbox</p>
-</div>
-
-<div style="background-color: rgb(153, 51, 136)" class="fl w-100 pa2">
-  <p>Testing Tachyons flexbox</p>
-</div>
+{{ partial "main" . }}
 
 {{ partial "footer" . }}
-
-</html>
