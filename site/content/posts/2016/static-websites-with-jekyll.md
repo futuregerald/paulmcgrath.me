@@ -4,7 +4,7 @@ date: 2016-08-13T10:40:35Z
 draft: false
 ---
 
-![Some reeaaally basic outlines](/assets/images/sketch_wireframes.jpg)
+<img alt="Some reeaaally basic outlines" data-src="/assets/images/sketch_wireframes.jpg">
 
 I put aside a few weekends recently to work on developing a simple new blog and portfolio site from scratch. 
 My old blog was a basic template that I set up after DroidCon Montréal, so I thought it'd be fun to dig into Jekyll
@@ -20,7 +20,7 @@ wireframing and prototyping.
 
 <div class="mt4"></div>
 
-![Incredibly straightforward, and highly recommended](/assets/images/github_pages_jekyll.jpg)
+<img alt="Incredibly straightforward, and highly recommendeds" data-src="/assets/images/github_pages_jekyll.jpg">
 
 Having spent some time working with Joomla, Wordpress, and Drupal, I was far more interested in building a static site 
 than deploying another bloated CMS. The three I found most appealing were [Jekyll][jekyll], [Middleman][middleman], 
@@ -32,7 +32,7 @@ domain. Super stuff.
 
 <div class="mt4"></div>
 
-![Admittedly, I can't handle how slow Atom is. SublimeText ftw.](/assets/images/development.jpg)
+<img alt="Admittedly, I can't handle how slow Atom is. SublimeText ftw" data-src="/assets/images/development.jpg">
 
 I initially used [Yeoman][yeo] to scaffold a [Gulp][gulp]-based workflow; however, it was a little opinionated in what 
 it generated, so instead I used **Jekyll new** to create a basic structure and then build a simple workflow from there.
@@ -46,7 +46,7 @@ rather than an entire framework.
 
 <div class="mt4"></div>
 
-![It'll do, until I have time to do something better](/assets/images/v2_site.jpg)
+<img alt="It'll do, until I have time to do something better" data-src="/assets/images/v2_site.jpg">
 
 A week or two later, I had some free time and cleaned it up a bit more.
 

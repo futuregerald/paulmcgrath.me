@@ -4,7 +4,7 @@ date: 2017-05-06T10:41:35Z
 draft: false
 ---
 
-![Dan North on stage at Craft Conf Budapest. Source: https://goo.gl/iroZa0](/assets/images/craft.jpg)
+<img alt="Dan North on stage at Craft Conf Budapest. Source: https://goo.gl/iroZa0" data-src="/assets/images/craft.jpg">
 
 I recently attended [Craft][craft] in Budapest, which is an incredible conference about Software Craftsmanship.
 

@@ -83,7 +83,6 @@ of development best-practices, or meeting a bunch of really cool forward-thinkin
 
 <img alt="Tom, Alex, and I at the closing party for the conference" data-src="/assets/images/party.jpg">
 
-
 [fullstack]: https://2016.fullstackfest.com/
 [fullstackvidoes]: https://www.youtube.com/playlist?list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc
 [fullstackpictures]: https://photos.google.com/share/AF1QipMosAJxuVcdK00-hXk7PcEScpttte948MEKeA4PrQWtJELcgRYqf8Pk-4dvueY6Eg?key=YmJsendCa2Z3TmtFa1hSRmROY2FVenFJWDBnaGJ3

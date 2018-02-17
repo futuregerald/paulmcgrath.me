@@ -4,7 +4,7 @@ date: 2015-04-12T10:41:35Z
 draft: false
 ---
 
-![The organisers, speakers, and attendees on Friday evening. Credit Droidcon Montreal](/assets/images/droidconMontreal.jpg)
+<img alt="The organisers, speakers, and attendees on Friday evening. Credit Droidcon Montreal" data-src="/assets/images/droidconMontreal.jpg">
 
 I flew back from Droidcon on Sunday, and compiled a list of resources made available by the speakers with a few
 thoughts on the event.
