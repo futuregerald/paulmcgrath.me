@@ -4,7 +4,7 @@ date: 2016-09-16T10:41:35Z
 draft: false
 ---
 
-![Hacker-themed, Kung-Fury-inspired imagery at Full Stack Fest](/assets/images/fullstackfest.jpg)
+<img alt="Hacker-themed, Kung-Fury-inspired imagery at Full Stack Fest" data-src="/assets/images/fullstackfest.jpg">
 
 I recently returned from an incredible week at Full Stack Fest in Barcelona, full of inspiring talks, cool people,
 and lots of delicious food.
@@ -35,7 +35,7 @@ of development best-practices, or meeting a bunch of really cool forward-thinkin
 
 <div class="mt4"></div>
 
-![Ines Sombra: Architectural patterns of resilient distributed systems](/assets/images/unk-unk.jpg)
+<img alt="Ines Sombra: Architectural patterns of resilient distributed systems" data-src="/assets/images/unk-unk.jpg">
 
 ## Day two:
 
@@ -51,7 +51,7 @@ of development best-practices, or meeting a bunch of really cool forward-thinkin
 
 <div class="mt4"></div>
 
-![Austen Collins: The State Of Serverless](/assets/images/serverless.jpg)
+<img alt="Austen Collins: The State Of Serverless" data-src="/assets/images/serverless.jpg">
 
 ## Day three:
 
@@ -67,7 +67,7 @@ of development best-practices, or meeting a bunch of really cool forward-thinkin
 
 <div class="mt4"></div>
 
-![David Wells: Best Practices on building a UI component library for your company](/assets/images/jsfatigue.jpg)
+<img alt="David Wells: Best Practices on building a UI component library for your company" data-src="/assets/images/jsfatigue.jpg">
 
 ## Day four:
 
@@ -81,7 +81,7 @@ of development best-practices, or meeting a bunch of really cool forward-thinkin
 
 <div class="mt4"></div>
 
-![Tom, Alex, and I at the closing party for the conference.](/assets/images/party.jpg)
+<img alt="Tom, Alex, and I at the closing party for the conference" data-src="/assets/images/party.jpg">
 
 
 [fullstack]: https://2016.fullstackfest.com/
