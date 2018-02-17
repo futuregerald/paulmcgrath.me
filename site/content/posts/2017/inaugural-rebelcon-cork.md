@@ -6,8 +6,6 @@ draft: false
 
 <img alt="David Lynam – JavaScript Gripes Solved with Elm" data-src="/assets/images/rebelcon.jpg">
 
-![David Lynam – JavaScript Gripes Solved with Elm](/assets/images/rebelcon.jpg)
-
 I recently attended [Rebel Con][rebelcon], Cork's first-of-its-kind conference about current technologies, 
 culture, and development best practices.
 
