@@ -2,34 +2,31 @@
 
 {{ partial "header.html" . }}
 
-<main class="mb5 fl w-100 pv2 ph3 flex flex-column items-center">
+<main class="mb6 fl w-100 sans-serif black-70">
 
-        <div class="tc">
-            <div class="post sans-serif fw6 mw7 lh-title">
-                <h1 class="f2 f2-m f2-l article-title black-70">Get in touch.</h1>
-            </div>
+    <div class="sans-serif fw6 tc lh-title">
+        <h1 class="f2 f2-m f2-l black-70">Get in touch.</h1>
+    </div>
+
+    <form name="contact" netlify class="measure center">
+    <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+        <div class="mt3">
+            <label class="db fw6 lh-copy f6 mb1" for="name">Name</label>
+            <input class="pa2 input-reset ba bg-transparent w-100" type="text" name="fullname"  id="email-address">
         </div>
-
-        <div class="sans-serif mw7 f4 tl">
-            {{ .Content }}
+        <div class="mv3">
+            <label class="db fw6 lh-copy f6 mb1" for="password">Email</label>
+            <input class="b pa2 input-reset ba bg-transparent w-100" type="email" name="email"  id="email">
         </div>
-
-        <form name="contact" netlify>
-                <p>
-                  <label>Your Name: <input type="text" name="name"></label>   
-                </p>
-                <p>
-                  <label>Your Email: <input type="email" name="email"></label>
-                </p>
-                <p>
-                  <label>Message: <textarea name="message"></textarea></label>
-                </p>
-                <p>
-                  <button type="submit">Send</button>
-                </p>
-              </form>
-
-
+        <div class="mv3">
+            <label class="db fw6 lh-copy f6 mb1" for="message">Message</label>
+            <textarea class="b pa2 input-reset ba bg-transparent w-100" type="text" name="message"  id="email"></textarea>
+        </div>
+        </fieldset>
+        <div class="">
+        <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="submit" value="Send">
+        </div>
+    </form>
 </main>
 
 {{ partial "footer.html" . }}
