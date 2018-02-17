@@ -24,7 +24,9 @@
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.11.6",
     "browser-sync": "^2.23.6",
+    "caniuse-lite": "^1.0.30000808",
     "css-loader": "^0.28.9",
+    "cssnano": "^3.10.0",
     "eslint": "^4.17.0",
     "eslint-plugin-import": "^2.8.0",
     "exports-loader": "^0.7.0",
@@ -42,8 +44,5 @@
     "url-loader": "^0.6.2",
     "webpack": "3.10.0",
     "whatwg-fetch": "^2.0.3"
-  },
-  "devDependencies": {
-    "tachyons": "^4.9.1"
   }
 }

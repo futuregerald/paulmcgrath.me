@@ -6,8 +6,8 @@ import flatten from "gulp-flatten";
 import postcss from "gulp-postcss";
 import cssImport from "postcss-import";
 import cssnext from "postcss-cssnext";
+import cssnano from "cssnano";
 import BrowserSync from "browser-sync";
-import watch from "gulp-watch";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
 
@@ -21,19 +21,19 @@ const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
-// Build/production tasks
+// Build/Production tasks
 gulp.task("build", ["css", "js", "fonts"], (cb) => buildSite(cb, [], "production"));
 gulp.task("build-preview", ["css", "js", "fonts"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
-// Compile CSS with PostCSS
+// Compile and minify CSS with PostCSS
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
-    .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
+    .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext(), cssnano({autoprefixer: false})]))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
 
-// Compile Javascript
+// Compile Javascript (No uglification yet)
 gulp.task("js", (cb) => {
   const myConfig = Object.assign({}, webpackConfig);
 
@@ -63,10 +63,10 @@ gulp.task("server", ["hugo", "css", "js", "fonts"], () => {
       baseDir: "./dist"
     }
   });
-  watch("./src/js/**/*.js", () => { gulp.start(["js"]); });
-  watch("./src/css/**/*.css", () => { gulp.start(["css"]); });
-  watch("./src/fonts/**/*", () => { gulp.start(["fonts"]); });
-  watch("./site/**/*", () => { gulp.start(["hugo"]); });
+  gulp.watch("./src/js/**/*.js", ["js"]);
+  gulp.watch("./src/css/**/*.css", ["css"]);
+  gulp.watch("./src/fonts/**/*", ["fonts"]);
+  gulp.watch("./site/**/*", ["hugo"]);
 });
 
 /**

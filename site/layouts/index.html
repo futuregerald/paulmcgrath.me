@@ -2,6 +2,22 @@
 
 {{ partial "header" . }}
 
-{{ partial "main" . }}
+<main class="mb5 fl w-100 pa4 flex flex-column items-center tc">
+    {{ range .Data.Pages.ByPublishDate.Reverse }}
+        <div class="mb5">
+            <div class="sans-serif f5 fw4 ttu tracked mb2 black-70">
+                <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
+            </div>
+            <div class="post sans-serif f2 fw6 mw6 lh-title">
+                <a class="link dim black-70" href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+        </div>
+    {{ end }}
+
+    <a class="link dim ba bw1 ph4 pv2 br2 dib black-70" href="/archive">
+        <span class="sans-serif f5 fw4 ttu tracked">Archive</span>
+    </a>
+
+</main>
 
 {{ partial "footer" . }}
