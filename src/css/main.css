@@ -9,5 +9,10 @@ img {
 }
 
 .main-links a {
-    color: #E7040F; 
+    color: #111111;
+    font-weight: 700; 
+}
+
+.main-links a:focus, a:hover {
+    opacity: .5;
 }

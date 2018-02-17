@@ -4,18 +4,18 @@
 
 <main class="mb5 fl w-100 pv4 ph3 flex flex-column items-center">
 
-        <div class="tc">
-            <div class="sans-serif f5 fw4 ttu tracked black-70">
-                <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
-            </div>
-            <div class="post sans-serif fw6 mw7 lh-title">
-                <h1 class="f2 f1-m f1-l article-title black-70">{{ .Title }}</h1>
-            </div>
+    <div class="tc">
+        <div class="sans-serif f5 fw4 ttu tracked black-70">
+            <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
         </div>
+        <div class="post sans-serif fw6 mw7 lh-title">
+            <h1 class="f2 f1-m f1-l article-title black-70">{{ .Title }}</h1>
+        </div>
+    </div>
 
-        <div class="sans-serif mw7 f4 tl main-links">
-            {{ .Content }}
-        </div>
+    <div class="sans-serif mw7 f4 tl main-links">
+        {{ .Content }}
+    </div>
 
 </main>
 
