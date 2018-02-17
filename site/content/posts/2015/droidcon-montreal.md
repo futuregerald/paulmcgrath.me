@@ -13,103 +13,55 @@ thoughts on the event.
 
 ### Day one:
 
-* An Open Source Advantage: Jake Wharton & Jesse Wilson, Square
+* An Open Source Advantage: [Slides][jakeJesseSlides] & [Video][jakeJesseVideo]
 
-    [Slides][jakeJesseSlides] & [Video][jakeJesseVideo]
+* Building the Fabric SDKs: [Slides][tySmithSlides] & [Video][tySmithVideo]
 
-* Building the Fabric SDKs: Ty Smith, Twitter
+* Hack and protect your applications: [Slides][genymotion]
 
-    [Slides][tySmithSlides] & [Video][tySmithVideo]
+* A few "ok" libraries: [Slides][jakeWhartonSlides] & [Video][jakeWhartonVideo]
 
-* Hack and protect your applications: Prunier & Galand, Genymobile
+* Introduction to Buck: [Slides][francisToth]
 
-    [Slides][genymotion]
+* Artfully embedded Android: [Slides][lisaNeigutSlides] & [Video][lisaNeigutVideo]
 
-* A few "ok" libraries: Jake Wharton, Square
+* Http in a hostile world: [Slides][jesseWilson]
 
-    [Slides][jakeWhartonSlides] & [Video][jakeWhartonVideo]
+* Everything about storage on Android: [Slides][cindyPotvin]
 
-* Introduction to Buck: Francis Toth, 1Science
+* I built my app with Kotlin, and my client still paid me: [Video][mattWearVideo]
 
-    [Slides][francisToth]
-
-* Artfully embedded Android: Lisa Neigut, Electric objects
-
-    [Slides][lisaNeigutSlides] & [Video][lisaNeigutVideo]
-
-* Http in a hostile world: Jesse Wilson, Square
-
-    [Slides][jesseWilson]
-
-* Everything about storage on Android: Cindy Potvin, Giro Inc.
-
-    [Slides][cindyPotvin]
-
-* I built my app with Kotlin, and my client still paid me: Matt Wear, WellMatch
-
-    [Video][mattWearVideo]
-
-* Gradle: from user to addict: Jacob Ouellette, Twitter
-
-    [Slides][jakeOut]
+* Gradle: from user to addict: [Slides][jakeOut]
 
 ### Day two:
 
-* App inspection with Stetho: Austin Longino & Josh Guilfoyle, Facebook
+* App inspection with Stetho: [Slides][austinJosh]
 
-    [Slides][austinJosh]
+* Debug builds: A New Hope: [Slides][mattPrecious]
 
-* Debug builds: A New Hope: Matthew Precious, Square
+* Efficient architecture: strategies for reusable code: [Slides][ryanHarterSlides] & [Video][ryanHarterVideo]
 
-    [Slides][mattPrecious]
+* Physics based UI for Fun and Profit: [Slides][willBailey]
 
-* Efficient architecture: strategies for reusable code: Ryan Harter, Analog Ocean
+* Developing Facebook for Android for low-end devices: [Slides][alexAlex]
 
-    [Slides][ryanHarterSlides] & [Video][ryanHarterVideo]
+* getBounds(): the Drawable story: [Slides][jamieLisa]
 
-* Physics based UI for Fun and Profit: Will Bailey, Facebook & Instagram
+* Mastering Recyclerview Layouts: [Slides][daveSmithSlides] & [Video][daveSmithVideo]
 
-    [Slides][willBailey]
+* VIPER - Clean Android architecture: [Slides][richaKhandelwal]
 
-* Developing Facebook for Android for low-end devices: Alex Sourov & Alexandru Petrescu, Facebook
+* Android Testing: [Slides][prateekSrivastava]
 
-    [Slides][alexAlex]
+* Android on your sleeve: [Slides][nealSanche]
 
-* getBounds(): the Drawable story: Jamie Huson, Etsy & Lisa Neigut, Electric Objects
+* Introduction to Functional Reactive Programming: [Slides][juanGomez]
 
-    [Slides][jamieLisa]
+* Gotta persist 'em all: Realm as a replacement for Sqlite: [Slides][sienaAguayo]
 
-* Mastering Recyclerview Layouts: Dave Smith, NewCircle
+* It's time to develop a watch face: [Slides][jamesBarr]
 
-    [Slides][daveSmithSlides] & [Video][daveSmithVideo]
-
-* VIPER - Clean Android architecture: Richa Khandelwal, Coursera
-
-    [Slides][richaKhandelwal]
-
-* Android Testing: Prateek Srivastava, Segment
-
-    [Slides][prateekSrivastava]
-
-* Android on your sleeve: Neal Sanche, Robots and Pencils
-
-    [Slides][nealSanche]
-
-* Introduction to Functional Reactive Programming: Juan Gomez, Netflix
-
-    [Slides][juanGomez]
-
-* Gotta persist 'em all: Realm as a replacement for Sqlite: Siena Aguayo, Indiegogo
-
-    [Slides][sienaAguayo]
-
-* It's time to develop a watch face: James Barr, Two Toasters
-
-    [Slides][jamesBarr]
-
-* Retrofit: Obliterating HTTP Boilerplate: Jacob Tabak, Timehop
-
-    [Slides][jacobTabak]
+* Retrofit: Obliterating HTTP Boilerplate: [Slides][jacobTabak]
 
 As someone who enjoys public speaking, it was great to see Square set the bar really high with their keynote.
 Jake outlined his approach [here][jakeTalk] which is recommended reading for anyone considering speaking at a similar

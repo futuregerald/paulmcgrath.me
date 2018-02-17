@@ -8,13 +8,13 @@
             <div class="sans-serif f5 fw4 ttu tracked mb2 black-70">
                 <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
             </div>
-            <div class="post sans-serif f2 fw6 mw6 lh-title">
-                <a class="link dim black-70" href="{{ .Permalink }}">{{ .Title }}</a>
+            <div class="sans-serif f2 fw6 mw6 lh-title">
+                <a class="link hover-dark-red black-70" href="{{ .Permalink }}">{{ .Title }}</a>
             </div>
         </div>
     {{ end }}
 
-    <a class="link dim ba bw1 ph4 pv2 br2 dib black-70" href="#">
+    <a class="link hover-dark-red ba bw1 ph4 pv2 br2 dib black-70" href="#">
         <span class="sans-serif f5 fw4 ttu tracked">Archive</span>
     </a>
 

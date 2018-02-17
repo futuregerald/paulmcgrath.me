@@ -1,9 +1,13 @@
 @import "imports/tachyons.min.css";
 
+img {
+    border-radius: 0.2rem;
+}
+
 .article-title {
     margin: 0.2em 0;
 }
 
-img {
-    border-radius: 0.2rem;
+.main-links a {
+    color: #E7040F; 
 }
