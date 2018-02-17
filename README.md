@@ -1,7 +1,7 @@
 # Website
 
 Design mock-ups created using Figma
-* https://paulmcgrath.me/figma-redesign
+* https://www.figma.com/file/692qWcMnVAbCwPE4SnRYfx/paulmcgrath.me-v2
 
 ## Licence
 This structure is based on [Victor Hugo][victor] and is under the same MIT licence.
