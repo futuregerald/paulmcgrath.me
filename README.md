@@ -1,4 +1,4 @@
-# PaulMcGrath-V2
+# Website
 
 Design mock-ups created using Figma
 * https://paulmcgrath.me/figma-redesign
