@@ -16,3 +16,7 @@ img {
 .main-links a:focus, a:hover {
     opacity: .5;
 }
+
+.uc:hover {
+    text-decoration: line-through;
+}
