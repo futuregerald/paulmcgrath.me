@@ -8,15 +8,11 @@ img {
     margin: 0.2em 0;
 }
 
-.main-links a {
+.link-override a {
     color: #111111;
     font-weight: 700; 
 }
 
-.main-links a:focus, a:hover {
+.link-override a:focus, a:hover {
     opacity: .5;
-}
-
-.uc:hover {
-    text-decoration: line-through;
 }
