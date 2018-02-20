@@ -1,6 +1,6 @@
 # Website
 
-Design mock-ups created using Figma
+Design mock-ups for V2 created using Figma
 * https://www.figma.com/file/692qWcMnVAbCwPE4SnRYfx/paulmcgrath.me-v2
 
 ## Licence
