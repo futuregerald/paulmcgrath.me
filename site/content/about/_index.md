@@ -7,13 +7,16 @@ draft: false
 hidden: true
 ---
 
-I'm a software developer, design enthusiast, and amateur photographer from Cork, Ireland.
+I'm a full-stack Software Engineer from Cork, Ireland, and I'm passionate about solving **user-oriented problems**. 
 
-I'm passionate about solving **user-oriented problems**. Whether UI or API, the user is my highest priority.
+In my spare time I contribute to open-source projects, and participate in meetups and makerspace communities.
 
-I keep busy by contributing to open-source projects; developing and designing for cloud, web, and mobile; and participating in makerspace communities.
+I'm also crazy passionate about the outdoors, rock-climbing, and street photography.
 
-If you'd like to know more, my resume is on [linkedIn][linkedin]. I also [code][github], [tweet][twitter], [instagram][insta], and can always be contacted [here][contact].
+If you'd like to know more, my resume is on [linkedIn][linkedin].
+
+I also [code][github], [tweet][twitter], [instagram][insta], and can always be contacted [here][contact]. 
+
 
 [linkedin]:   https://linkedin.com/in/paul-mcgrath
 [github]: https://github.com/heypaulmcgrath
