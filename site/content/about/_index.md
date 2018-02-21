@@ -7,7 +7,7 @@ draft: false
 hidden: true
 ---
 
-I'm a full-stack Software Engineer from Cork, Ireland, and I'm passionate about solving **user-oriented problems**. 
+I'm a full-stack Software Engineer and I'm passionate about solving **user-oriented problems**. 
 
 In my spare time I contribute to open-source projects, and participate in meetups and makerspace communities.
 
