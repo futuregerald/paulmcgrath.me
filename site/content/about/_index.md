@@ -15,7 +15,7 @@ I'm also crazy passionate about the outdoors, rock-climbing, and street photogra
 
 If you'd like to know more, my resume is on [linkedIn][linkedin].
 
-I also [code][github], [tweet][twitter], [instagram][insta], and can always be contacted [here][contact]. 
+I [code][github], [tweet][twitter], [instagram][insta], and can always be contacted [here][contact]. 
 
 
 [linkedin]:   https://linkedin.com/in/paul-mcgrath
