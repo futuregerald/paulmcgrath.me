@@ -1,5 +1,7 @@
 # Website
 
+Built to show blog posts/projects, and to progressively design/enhance a skeleton site.
+
 Design mock-ups for V2 created using Figma
 * https://www.figma.com/file/692qWcMnVAbCwPE4SnRYfx/paulmcgrath.me-v2
 
