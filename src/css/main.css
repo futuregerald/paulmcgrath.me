@@ -16,3 +16,7 @@ img {
 .link-override a:focus, a:hover {
     opacity: .5;
 }
+
+.fw-ol a {
+    font-weight: 700;
+}
